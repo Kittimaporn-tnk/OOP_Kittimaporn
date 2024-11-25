@@ -4,3 +4,4 @@ class Student:
         self.name = ชื่อนามสกุล
         self.nickname = ชื่อเล่น
         self.score = คะแนนสอบ
+
